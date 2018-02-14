@@ -17,3 +17,6 @@
   - [ ] Define and implement a `Render` function, which should render a static asteroid on the center of the screen. Experiment with point variations and other techniques to achieve a proper Asteroid shape. Remember asteroid size should affect the render size.
   - [ ] Define and implement a `GetSize` function, should return the Asteroid size.
 - [ ] Modify your code in a way code repetition is minimal.
+
+## Notes
+* Your code repo should be referenced as a sub-module for this assignment.
